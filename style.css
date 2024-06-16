@@ -693,16 +693,14 @@ input[type=radio] {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../../songs/ed-sheeran.jpg);
+    background-image: url('https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/ed-sheeran.jpg');
     background-position: center;
     background-size: 100% 100%;
     background-size: cover;
     border-radius: 4rem;
     transition: all 0.2s ease-in-out;
 }
-.popular-artists-1 {
-    background-image: url('https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/ed-sheeran.jpg') !important;
-}
+
 
 .popular-artists-2 {
     background-image: url('https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/cold-play.jpg') !important;
