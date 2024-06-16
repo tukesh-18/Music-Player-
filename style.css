@@ -702,23 +702,23 @@ input[type=radio] {
 }
 
 .popular-artists-2 {
-    background-image: url(../../songs/cold-play.jpg) !important;
+    background-image: url('../https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/cold-play.jpg') !important;
 }
 
 .popular-artists-3 {
-    background-image: url(../../songs/zayn.jpg) !important;
+    background-image: url('../https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/zayn.jpg') !important;
 }
 
 .popular-artists-4 {
-    background-image: url(../../songs/charlie-puth.jpg) !important;
+    background-image: url('../https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/charlie-puth.jpg') !important;
 }
 
 .popular-artists-5 {
-    background-image: url(../../songs/imagine-dragon.jpg) !important;
+    background-image: url('../https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/imagine-dragon.jpg') !important;
 }
 
 .popular-artists-6 {
-    background-image: url(../../songs/bruno-mars.jpg) !important;
+    background-image: url('../https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/bruno-mars.jpg') !important;
 }
 
 .popular-artists>a {
