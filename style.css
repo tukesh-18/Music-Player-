@@ -506,13 +506,14 @@ input[type=radio] {
 }
 
 .latest-release-img-container {
-    background-image: url('../Music-Player-/blob/main/songs/latest-release-onism.jpg');
+    background-image: url('https://raw.githubusercontent.com/tukesh-18/Music-Player-/main/songs/latest-release-onism.jpg');
     background-size: cover;
     height: 5rem;
     width: 5rem;
     margin-right: 1rem;
     position: relative;
 }
+
 
 .latest-release-play-btn {
     position: absolute;
